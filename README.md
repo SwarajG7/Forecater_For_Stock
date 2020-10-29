@@ -1,2 +1,2 @@
 # Forecater_For_Stock
-Implementaion of  a research paper based on forecaster for movement of stocks of pharma companies usinh Random forest and SVM algorithms
+To implement the following paper "Predicting the direction of stock market prices using random forest" - Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
